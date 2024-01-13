@@ -19,7 +19,7 @@ Para executar este projeto, você precisará:
 ## Configuração e Instalação
 
 ### Clonando o Repositório
-Clone o repositório usando: [[https://github.com/gfmaurila/poc.api.mongodb.net8](https://github.com/gfmaurila/poc.api.sqlserver.net8)](https://github.com/gfmaurila/poc.api.sqlserver.dapper.net8)
+Clone o repositório usando: https://github.com/gfmaurila/poc.api.sqlserver.dapper.net8
 
 ### Configurando o Docker e Docker Compose
 docker-compose up --build
