@@ -23,6 +23,7 @@ Clone o repositório usando: https://github.com/gfmaurila/poc.api.sqlserver.dapp
 
 ### Configurando o Docker e Docker Compose
 docker-compose up --build
+http://localhost:5072/swagger/index.html
 
 ### SQL Server
 Add-Migration Inicial -Context SqlServerDb
