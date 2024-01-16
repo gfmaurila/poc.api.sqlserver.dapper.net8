@@ -30,7 +30,7 @@ Add-Migration Inicial -Context SqlServerDb
 Update-Database -Context SqlServerDb
 
 ## Youtube
-https://www.youtube.com/watch?v=v-_yNDviInQ
+https://youtu.be/hI-evhBOHT0
 
 ## Autor
 
