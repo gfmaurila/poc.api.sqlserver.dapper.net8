@@ -29,6 +29,9 @@ http://localhost:5072/swagger/index.html
 Add-Migration Inicial -Context SqlServerDb
 Update-Database -Context SqlServerDb
 
+## Youtube
+https://www.youtube.com/watch?v=v-_yNDviInQ
+
 ## Autor
 
 - Guilherme Figueiras Maurila

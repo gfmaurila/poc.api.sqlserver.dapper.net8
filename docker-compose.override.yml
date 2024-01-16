@@ -2,9 +2,9 @@ version: '3.9'
 
 services:
 
-  poc.api.sqlserver.dapper-webapi:
+  poc.api.sqlserver-webapi:
     ports:
-      - 5072:5072
+      - 5071:5071
     environment:
       - ASPNETCORE_ENVIRONMENT=Docker
     volumes:
